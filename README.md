@@ -18,7 +18,7 @@ private fun setResouce() {
 
 }
 ```
-![1](https://github.com/yufeilong92/ReflectAndAnnotate/blob/master/picture/a.png)
+![1](https://github.com/yufeilong92/ReflectAndAnnotate/blob/master/picture/a.jpg)
 ```
     companion object {
         const val RESOUCES_ONE = 1;
